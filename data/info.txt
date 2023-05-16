@@ -1,0 +1,2 @@
+This dataset contains English subtitles for the Game of Thrones TV series.
+These subtitles have been downloaded from the following page: https://wtfdetective.com/game-of-thrones-season-1-8-subtitles-in-english-complete-series/
